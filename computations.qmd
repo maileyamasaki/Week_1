@@ -9,6 +9,8 @@ fig-height: 3.5
 fig-width: 6
 ---
 
+Github Link: https://github.com/maileyamasaki/Week_1
+
 This dataset contains a subset of the fuel economy data from the EPA.
 
 ```{python}
